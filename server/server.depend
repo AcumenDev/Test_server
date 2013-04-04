@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1333917712 source:e:\test_socket\server\main.cpp
+	<iostream>
+
+1333917712 source:d:\test_socket\server\main.cpp
+	<iostream>
+
+1363870657 source:d:\test_socket\server\socket.cpp
+	"Socket.h"
+
+1363722019 d:\test_socket\server\socket.h
+	<iostream>
+	<winsock2.h>
+
+1364971322 source:c:\users\sergey\videos\test_socket\server\main.cpp
+	<iostream>
+	"Socket.h"
+
+1364971205 c:\users\sergey\videos\test_socket\server\socket.h
+	<iostream>
+	<winsock2.h>
+
+1364971261 source:c:\users\sergey\videos\test_socket\server\socket.cpp
+	"Socket.h"
+
